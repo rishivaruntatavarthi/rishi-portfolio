@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rishi-portfolio/static/css/main.7edce3b9.css",
+    "main.js": "/rishi-portfolio/static/js/main.a6c01871.js",
+    "index.html": "/rishi-portfolio/index.html",
+    "main.7edce3b9.css.map": "/rishi-portfolio/static/css/main.7edce3b9.css.map",
+    "main.a6c01871.js.map": "/rishi-portfolio/static/js/main.a6c01871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7edce3b9.css",
+    "static/js/main.a6c01871.js"
+  ]
+}
